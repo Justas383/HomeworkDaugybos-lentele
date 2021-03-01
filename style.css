@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: palegreen;
+}
+.form{
+    display: flex;
+    justify-content: center;
+    border-bottom:solid 2px rgb(89, 201, 89);
+    padding-bottom: 5px;
+}
+.php{
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    font-family: sans-serif;
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    border: solid 2px rgb(89, 201, 89);
+    background-color: rgb(204, 255, 204);
+    border-radius: 10px;
+}
