@@ -9,7 +9,6 @@ Creating a multiplication table with php
 
 This project is for educational porpuses only.
 
-Site published at : https://justas383.github.io/HomeworkDaugybos-lentele/
 
 
 ## Project features
